@@ -48,11 +48,15 @@ if CONFIG_CHECK:
     LOGS.error("Please remove the line mentioned in the first hashtag from the config.env file")
     quit(1)
 
-API_KEY = os.environ.get("API_KEY", "757601")
+API_KEY = os.environ.get("API_KEY", "1196189")
 
 OCR_SPACE_API_KEY = os.environ.get("OCR_SPACE_API_KEY", None)
 
-API_HASH = os.environ.get("API_HASH", "f6ea3759c7766caed9fa46c214c9ab54")
+API_HASH = os.environ.get("API_HASH", "81423b751b18855f97eaed5b9273850a")
+
+https://amzn.to/2OiGKwQ
+
+Women's Tote Bag with Pouch (Green) (Set of 2)
 
 STRING_SESSION = os.environ.get("STRING_SESSION", None)
 
