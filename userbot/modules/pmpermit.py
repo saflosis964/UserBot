@@ -16,12 +16,12 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("`Hello! This is a bot.`\n\n"
-                  "`Sorry I'm not in a condition of approving PM's anyone so it isn't worth messaging me.`\n\n"
-                  "`Instead, go to` @Iam_Rubybot `and wait for my reply.`\n\n"
-                  "`Also don't spam the PM you'll get blocked...😈\n\n`"
-                  "`Regards,`\n"
-                  "`RubyRox ^_^`")
+UNAPPROVED_MSG = ("`sabar rakh apne ko online aane de.`\n\n"
+                  "`jyada msg kiye to block ho jayega.`\n\n"
+                  "`jyada jaruri kaam hai to apne bot `@saflosis_bot` pe msg karne ka.`\n\n"
+                 
+                  "`shubhchintak,`\n"
+                  "`Saflosis ^_^`")
 # =================================================================
 
 
