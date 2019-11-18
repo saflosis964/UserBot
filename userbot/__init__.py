@@ -106,5 +106,5 @@ SNIPE_ID = 0
 MUTING_USERS = {}
 MUTED_USERS = {}
 CMD_HELP = {}
-AFKREASON = "no reason"
+AFKREASON = "ese hi "
 DISABLE_RUN = False
