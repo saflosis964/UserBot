@@ -184,7 +184,7 @@ FACEREACTS = [
     "(｡◕‿◕｡)",
 ]
 RUNSREACTS = [
-    "`Runs to pro RubyRox`",
+    "`Runs to pro Saflosis`",
     "`Runs far, far away from earth`",
     "`Running faster than supercomputer coz I'm RubyRox Frand`",
     "`Runs to Rose`",
