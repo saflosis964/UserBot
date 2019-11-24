@@ -48,21 +48,21 @@ if CONFIG_CHECK:
     LOGS.error("Please remove the line mentioned in the first hashtag from the config.env file")
     quit(1)
 
-API_KEY = os.environ.get("API_KEY", "757601")
+API_KEY = os.environ.get("API_KEY", "1196189")
 
 OCR_SPACE_API_KEY = os.environ.get("OCR_SPACE_API_KEY", None)
 
-API_HASH = os.environ.get("API_HASH", "f6ea3759c7766caed9fa46c214c9ab54")
+API_HASH = os.environ.get("API_HASH", "81423b751b18855f97eaed5b9273850a")
 
-STRING_SESSION = os.environ.get("STRING_SESSION", None)
+STRING_SESSION = os.environ.get("STRING_SESSION", "1BVtsOKABuwPoqcYO78KocPhkGcPGABgwaM9_QzNQ39p1nNkJZ5RO_C0s_IKs0B8SB1qXPJpq_msDqVC5COa2Ge-x22VD-i61AqaQqAjLdodUQEWXGpWJ7o-8HivVTkK0X1dT-fprhNjnh6YEdOJksNLIkQk6oKL0QUJc_18WfZuDuboFQJ59366mTZYNebBjn0uB2JJIqgbHMYZQOaZiup5bFV6bQu4t2HmMT4JOXctAVTgn_5_nMiZqCOhGC2m8ycLjq29fHOdwZRU4SGl4L1_I37len_r9h2QCKdfdxGPeqrHhc2d1kxW65aKKqJY986frjByONhcHW5xl26UUM7sd-9r2c78=")
 
-BOTLOG_CHATID = int(os.environ.get("BOTLOG_CHATID", "0"))
+BOTLOG_CHATID = int(os.environ.get("BOTLOG_CHATID", "-371135953"))
 
 BOTLOG = sb(os.environ.get(
-    "BOTLOG", "False"
+    "BOTLOG", "True"
 ))
 
-PM_AUTO_BAN = sb(os.environ.get("PM_AUTO_BAN", "False"))
+PM_AUTO_BAN = sb(os.environ.get("PM_AUTO_BAN", "True"))
 
 CONSOLE_LOGGER_VERBOSE = sb(
     os.environ.get("CONSOLE_LOGGER_VERBOSE", "False")
